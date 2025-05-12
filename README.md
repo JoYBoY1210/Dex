@@ -88,8 +88,8 @@ We recommend adding authentication if you plan to publish the extension to the C
 
 ## 📬 Contact
 
-Built with ❤️ by [Your Name]  
-GitHub: [@yourusername](https://github.com/yourusername)
+Built with ❤️ by Tanish
+GitHub: [@JoYBoY1210](https://github.com/JoYBoY1210)
 
 ---
 
